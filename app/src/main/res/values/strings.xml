@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="shift">Shift</string>
+    <string name="transactions">Transactions</string>
+    <string name="leave">Leave</string>
+    <string name="profile">Profile</string>
+    <string name="user_management">Management</string>
+    <string name="usermanagement">System</string>
+    <string name="menu">logout</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="profile_management">profile</string>
+    <string name="leave_schedule">Leave</string>
+    <string name="settings">System</string>
+</resources>
